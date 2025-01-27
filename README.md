@@ -1,3 +1,3 @@
-<!-- Admin URL: https://app.netlify.com/sites/VickyDhiman -->
-<!-- URL:       https://VickyDhiman.netlify.app -->
-<!-- Site ID:   60363252-5411-47a1-8034-a3f73bf26a61 -->
+<!-- Admin URL: https://app.netlify.com/sites/vickydhiman
+URL:       https://vickydhiman.netlify.app
+Site ID:   03fdc48d-4139-454a-b986-79416c79e63a -->
